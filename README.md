@@ -10,4 +10,4 @@ Laravel Blade ve Tailwind CSS kullanılarak geliştirilmiş, SEO ve Core Web Vit
 
 ## 🔗 Canlı Önizleme & Geliştirici
 Bu bileşen ve modern web mimarileri hakkında daha fazla vaka çalışması için:
-👉 **[Kurumsal Web Tasarım ve Yazılım Çözümleri]([https://resuloztas.com/web-tasarim](https://resuloztas.com/hizmetler/kurumsal-web-tasarim))** sayfasını ziyaret edebilirsiniz.
+👉 **[Kurumsal Web Tasarım ve Yazılım Çözümleri](https://resuloztas.com/hizmetler/kurumsal-web-tasarim)** sayfasını ziyaret edebilirsiniz.
